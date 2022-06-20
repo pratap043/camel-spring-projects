@@ -1,6 +1,6 @@
 package com.opentext.microservices.camelmicroservice.config;
 
-import static java.nio.charset.StandardCharsets.UTF_8
+import static java.nio.charset.StandardCharsets.UTF_8;
 import java.io.IOException;
 import java.io.PrintWriter;
 
