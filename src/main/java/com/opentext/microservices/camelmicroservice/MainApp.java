@@ -1,5 +1,6 @@
 package com.opentext.microservices.camelmicroservice;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.opentext.microservices.camelmicroservice.config.CamelConfig;
 import com.opentext.microservices.camelmicroservice.config.MyRouteConfiguration;
